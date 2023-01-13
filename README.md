@@ -2,7 +2,7 @@
  
 * 🙋🏽‍♂️ I am Angelo 
 * I am from 🇧🇷
-* A PhD candidate in Economics at University of Houston 👨🏽‍🎓
+* A PhD candidate in Economics at the University of Houston 👨🏽‍🎓
 * My research interests are: Development, Education and Health 📚
 * I love python 🐍 exercising 🏃🏽‍♂️ and soccer ⚽
 
