@@ -8,7 +8,7 @@
 
 ## Current projects:
 
-* My Third year paper wich evaluates the impact of offering integration into regular classroomns with pullout classes to disabled students in Brazil.
+* My Third year paper evaluates the impact of offering integration into regular classroomns with pullout classes to disabled students in Brazil.
 
 * Research assitant at PIRE project:
   - Title: “Climate risk, pollution, and childhood inequalities in
