@@ -4,7 +4,7 @@
 * I am from 🇧🇷
 * A PhD candidate in Economics at University of Houston 👨🏽‍🎓
 * My research interests are: Development, Education and Health 📚
-* I love python 🐍, exercising 🏃🏽‍♂️ and soccer ⚽
+* I love python 🐍 exercising 🏃🏽‍♂️ and soccer ⚽
 
 ## Current projects:
 
