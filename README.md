@@ -3,7 +3,7 @@
 * 🙋🏽‍♂️ I am Angelo 
 * I am from 🇧🇷
 * A PhD candidate in Economics at the University of Houston 👨🏽‍🎓
-* My research interests are: Development, Education and Health 📚
+* My research interests are: Development and Environmental 📚
 * I love python 🐍 hiking 🥾 and soccer ⚽
 
 ## Current projects:
