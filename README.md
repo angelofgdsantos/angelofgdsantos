@@ -8,8 +8,6 @@
 
 ## Current projects:
 
-* My current research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges.
-
 * Research assitant at PIRE project:
   - Title: “Climate risk, pollution, and childhood inequalities in
 low- and middle-income countries”
@@ -22,15 +20,11 @@ low- and middle-income countries”
 
 ## Codes and websites:
 
+* [Personal website](https://angelofgdsantos.github.io)
+
 * Human capital course:
   - [Git](https://github.com/angelofgdsantos/human-capital)
   - [Website](https://angelofgdsantos.github.io/human-capital/md/intro.html)
-
-* Authors project:
-  - [Git](https://github.com/angelofgdsantos/authors-project)
-  - [Website](https://angelofgdsantos.github.io/authors-project/)
-
-* [Personal website](https://angelofgdsantos.github.io)
 
 <!---
 AngeloSant0s/AngeloSant0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
