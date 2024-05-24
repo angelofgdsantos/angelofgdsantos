@@ -15,9 +15,6 @@ low- and middle-income countries”
   - [Paper](https://fanwangecon.github.io/assets/GlobalPollutionBurden_SantosEtAl.pdf)
   - [Website](https://ceci.sas.upenn.edu)
   
-* Research assitant for prof. Chinhui Juhn and Yona Rubinstein:
-  - [Website](https://angelofgdsantos.github.io/authors-project/md/intro.html)
-
 ## Codes and websites:
 
 * [Personal website](https://angelofgdsantos.github.io)
