@@ -27,7 +27,7 @@ low- and middle-income countries”
 
 * Authors project:
   - [Git](https://github.com/angelofgdsantos/authors-project)
-  - [Website](https://angelofgdsantos.github.io/authors-project/md/intro.html)
+  - [Website](https://angelofgdsantos.github.io/authors-project/)
 
 * [Personal website](https://angelofgdsantos.github.io)
 
