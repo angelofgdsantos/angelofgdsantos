@@ -26,7 +26,7 @@ low- and middle-income countries”
   - [Website](https://angelofgdsantos.github.io/human-capital/md/intro.html)
 
 * Authors project:
-  - [Git](https://github.com/AngeloSant0s/authors-project)
+  - [Git](https://github.com/angelofgdsantos/authors-project)
   - [Website](https://angelofgdsantos.github.io/authors-project/md/intro.html)
 
 * [Personal website](https://angelofgdsantos.github.io)
