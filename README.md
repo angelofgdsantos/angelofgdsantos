@@ -8,12 +8,13 @@
 
 ## Current projects:
 
-* My Third year paper analyzes the impacts of a special education policy in Brazil
+* My current research addresses critical issues such as deforestation and air pollution, aiming to develop effective policies to mitigate these challenges.
 
 * Research assitant at PIRE project:
   - Title: “Climate risk, pollution, and childhood inequalities in
 low- and middle-income countries”
   - Partners: World Bank, IDB, ADB, UNICEF, Regional Institute for Population Studies in Ghana, University of Pennsylvania and the University of Houston
+  - [Paper](https://fanwangecon.github.io/assets/GlobalPollutionBurden_SantosEtAl.pdf)
   - [Website](https://ceci.sas.upenn.edu)
   
 * Research assitant for prof. Chinhui Juhn and Yona Rubinstein:
