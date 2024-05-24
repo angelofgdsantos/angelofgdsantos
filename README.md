@@ -14,7 +14,7 @@
   - Title: “Climate risk, pollution, and childhood inequalities in
 low- and middle-income countries”
   - Partners: World Bank, IDB, ADB, UNICEF, Regional Institute for Population Studies in Ghana, University of Pennsylvania and the University of Houston
-  - [Website](https://web.sas.upenn.edu/climate-environment-children/comparative/)
+  - [Website](https://ceci.sas.upenn.edu)
   
 * Research assitant for prof. Chinhui Juhn and Yona Rubinstein:
   - [Website](https://angelosant0s.github.io/authors-project/md/intro.html)
