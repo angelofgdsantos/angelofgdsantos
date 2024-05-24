@@ -17,19 +17,19 @@ low- and middle-income countries”
   - [Website](https://ceci.sas.upenn.edu)
   
 * Research assitant for prof. Chinhui Juhn and Yona Rubinstein:
-  - [Website](https://angelosant0s.github.io/authors-project/md/intro.html)
+  - [Website](https://angelofgdsantos.github.io/authors-project/md/intro.html)
 
 ## Codes and websites:
 
 * Human capital course:
-  - [Git](https://github.com/AngeloSant0s/human-capital)
-  - [Website](https://angelosant0s.github.io/human-capital/md/intro.html)
+  - [Git](https://github.com/angelofgdsantos/human-capital)
+  - [Website](https://angelofgdsantos.github.io/human-capital/md/intro.html)
 
 * Authors project:
   - [Git](https://github.com/AngeloSant0s/authors-project)
-  - [Website](https://angelosant0s.github.io/authors-project/md/intro.html)
+  - [Website](https://angelofgdsantos.github.io/authors-project/md/intro.html)
 
-* [Personal website](https://angelosantos.netlify.app)
+* [Personal website](https://angelofgdsantos.github.io)
 
 <!---
 AngeloSant0s/AngeloSant0s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
