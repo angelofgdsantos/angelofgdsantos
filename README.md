@@ -8,7 +8,7 @@
 
 ## Current projects:
 
-* Job Market Paper: Paying us to not deforest: How community pay-for-performance can lead to conservation 
+* Paying us to not deforest: How community pay-for-performance can lead to conservation (Job Market Paper)
 * Doctoral researcher for the PIRE project:
   - Title: “Climate risk, pollution, and childhood inequalities in low- and middle-income countries”
   - Partners: World Bank, IDB, ADB, UNICEF, Regional Institute for Population Studies in Ghana, University of Pennsylvania and the University of Houston
