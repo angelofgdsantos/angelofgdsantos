@@ -20,7 +20,7 @@
 
 * [Personal website](https://angelofgdsantos.github.io)
 
-* Human capital course:
+* Human capital course codes:
   - [Git](https://github.com/angelofgdsantos/human-capital)
   - [Website](https://angelofgdsantos.github.io/human-capital/md/intro.html)
 
