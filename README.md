@@ -10,7 +10,7 @@ This is my [Personal website](https://angelofgdsantos.github.io)
 
 ## Current projects:
 
-* Strategic Environment: Conservation Policies Effectiveness and Strategic Behavior (Job Market Paper)
+* [Strategic Environment: Conservation Policies Effectiveness and Strategic Behavior (Job Market Paper)](https://angelofgdsantos.github.io/research/paper1/paper_zambia.pdf)
 * [Population burdens of air pollution around the world: Distributions, inequalities, and links to per capita GDP](https://angelofgdsantos.github.io/research/paper1/paper_global_pollution.pdf)
 * Air pollution, Extreme Heat and Early Childhood Development in Latin America
 * Doctoral researcher for the PIRE project:
